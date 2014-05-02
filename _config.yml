@@ -4,7 +4,7 @@
 
 url: http://aribajahan.github.io
 title: Ariba Jahan
-subtitle: 
+subtitle: Product & Data enthusiast. Bioengineer. Ferocious Knitter. Bacon Evangelist.  
 author: Ariba Jahan
 simple_search: https://www.google.com/search
 description:
@@ -67,6 +67,10 @@ github_user: aribajahan
 github_repo_count: 2
 github_show_profile_link: true
 github_skip_forks: true
+
+#Linkedin
+linkedin_user: aribajahan
+
 
 # Twitter
 twitter_user: aribajahan
