@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Ariba Jahan]]></title>
-  <link href="http://aribajahan.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: NYC | Ariba Jahan]]></title>
+  <link href="http://aribajahan.github.io/blog/categories/nyc/atom.xml" rel="self"/>
   <link href="http://aribajahan.github.io/"/>
-  <updated>2014-05-02T16:09:40-04:00</updated>
+  <updated>2014-05-02T16:13:23-04:00</updated>
   <id>http://aribajahan.github.io/</id>
   <author>
     <name><![CDATA[Ariba Jahan]]></name>
@@ -37,7 +37,7 @@
 
 <ul>
     <li>Based on the results, I want to look in to neighborhood and school district breakdown of proficiency levels. </li>
-    <li>Then I&#8217;d like to work on a solution to help target those specific schools/districts that are performing below the level of proficiency that is set appropriate for their grade level.</li>
+    <li>Then I'd like to work on a solution to help target those specific schools/districts that are performing below the level of proficiency that is set appropriate for their grade level.</li>
 </ul>
 
 
@@ -110,7 +110,7 @@ Data description: NYS Math Exam Proficiency Level Results for Grades 3-8, from 2
 <em>However, the years 2006-2011 are represented left to right, consecutively</em>.<br/>
 <em>According to this plot: Students performing below their grade level is increasing whereas students performing at their grade level is decreasing</em>.</p>
 
-<h3>4.Let&rsquo;s get a lil&#8217; deeper</h3>
+<h3>4.Let&rsquo;s get a lil' deeper</h3>
 
 <p>First, I wanted to see if there was any gender differences in proficiency levels.<br/>
 Then, I wanted to take a look at the NYC and borough breakdown of proficiency levels for 2011.</p>
@@ -147,24 +147,6 @@ Then, I wanted to take a look at the NYC and borough breakdown of proficiency le
 2.Deeper dive in to the borough breakdown by neighborhoods and districts. <br/>
 3.Create a plan to help target those districts and schools where students are performing at Proficiency Levels 1 &amp; 2.<br/>
 4.Explore proficiency level trends by grades.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World: Late Saturday Night]]></title>
-    <link href="http://aribajahan.github.ioblog/hello-world-saturday-night/"/>
-    <updated>2014-04-06T03:46:38-04:00</updated>
-    <id>http://aribajahan.github.ioblog/hello-world-saturday-night</id>
-    <content type="html"><![CDATA[<p>It&rsquo;s 4 am and I&rsquo;m still trying to figure out how to work Github, Jekyll and Octopress.</p>
-
-<p>It&rsquo;s interesting how much more time I&rsquo;m willing to spend learning this &hellip; because it&rsquo;s an entire project.  I definitely think I&rsquo;m learning more this way than being on Codecademy.</p>
-
-<p> I should go to bed.</p>
-
-<!--more-->
-
-
-<p></p>
 ]]></content>
   </entry>
   
