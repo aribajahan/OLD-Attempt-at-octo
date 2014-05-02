@@ -1,24 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://aribajahan.github.ioblog/hello-world-saturday-night/</loc>
-        <lastmod>2014-05-02T15:18:06-04:00</lastmod>
+        <loc>http://aribajahan.github.io/blog/2014/04/06/hello-world-saturday-night/</loc>
+        <lastmod>2014-05-02T17:01:55-04:00</lastmod>
     </url>
     <url>
-        <loc>http://aribajahan.github.ioblog/hows-nyc-math-education-holding-up-these-days/</loc>
-        <lastmod>2014-05-02T15:18:06-04:00</lastmod>
+        <loc>
+            http://aribajahan.github.io/blog/2014/04/25/hows-nyc-math-education-holding-up-these-days/
+        </loc>
+        <lastmod>2014-05-02T17:01:55-04:00</lastmod>
     </url>
     <url>
         <loc>http://aribajahan.github.io/blog/archives/</loc>
-        <lastmod>2014-05-02T15:18:06-04:00</lastmod>
+        <lastmod>2014-05-02T17:01:55-04:00</lastmod>
     </url>
     <url>
         <loc>http://aribajahan.github.io/</loc>
-        <lastmod>2014-05-02T15:18:06-04:00</lastmod>
+        <lastmod>2014-05-02T17:01:55-04:00</lastmod>
     </url>
     <url>
         <loc>http://aribajahan.github.io/posts/</loc>
-        <lastmod>2014-05-02T15:18:06-04:00</lastmod>
+        <lastmod>2014-05-02T17:01:55-04:00</lastmod>
     </url>
     <url>
         <loc>http://aribajahan.github.io/robots.txt</loc>
