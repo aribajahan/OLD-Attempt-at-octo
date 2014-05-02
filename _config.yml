@@ -4,10 +4,10 @@
 
 url: http://aribajahan.github.io
 title: Ariba Jahan
-subtitle: Product & Data enthusiast. Bioengineer. Ferocious Knitter. Bacon Evangelist.  
+subtitle:   
 author: Ariba Jahan
 simple_search: https://www.google.com/search
-description:
+description: 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: ariba.jahan@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -71,18 +71,21 @@ github_skip_forks: true
 #Linkedin
 linkedin_user: aribajahan
 
+#Email
+email: ariba.jahan@gmail.com
+
 
 # Twitter
 twitter_user: aribajahan
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: ariba.jahan@gmail.com
+googleplus_user: ariba.jahan
 googleplus_hidden: false
 
 # Pinboard
@@ -95,7 +98,7 @@ delicious_count: 3
 
 # Disqus Comments
 disqus_short_name: aribajahan
-disqus_show_comment_count: false
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: 
