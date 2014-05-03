@@ -75,6 +75,7 @@ ___
 * [Cranky PM](http://crankypm.com/)
 * [PM on PM](http://www.pmonpm.com/)
 
+___
 ###Next up:
 * Design Thinking 
 * Organizational Psychology
