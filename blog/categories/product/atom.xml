@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Product | Ariba Jahan]]></title>
+  <link href="http://aribajahan.github.io/blog/categories/product/atom.xml" rel="self"/>
+  <link href="http://aribajahan.github.io/"/>
+  <updated>2014-05-03T02:01:28-04:00</updated>
+  <id>http://aribajahan.github.io/</id>
+  <author>
+    <name><![CDATA[Ariba Jahan]]></name>
+    <email><![CDATA[ariba.jahan@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What Every Product Manager Should Get On]]></title>
+    <link href="http://aribajahan.github.io/blog/2014/05/03/product-reading-list/"/>
+    <updated>2014-05-03T01:51:08-04:00</updated>
+    <id>http://aribajahan.github.io/blog/2014/05/03/product-reading-list</id>
+    <content type="html"><![CDATA[<h3>Product Books to read</h3>
+
+<ul>
+<li><a href="http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S/ref=pd_sim_kstore_10?ie=UTF8&amp;refRID=0KZ9WWPWCNHPMAN2KQM2">Hooked: How to Build Habit-Forming Products</a></li>
+<li><a href="http://www.amazon.com/Contagious-Why-Things-Catch-On-ebook/dp/B008J4GQKW/ref=pd_sim_kstore_13?ie=UTF8&amp;refRID=1KWSFTZ4Z936DVBMQMR3">Contagious: Why Things Catch On</a></li>
+<li><a href="http://www.goodreads.com/book/show/3323374.Inspired_How_To_Create_Products_Customers_Love">Inspired- How to Create Products Customers Love</a></li>
+<li><a href="http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758">Don&rsquo;t Make Me Think</a></li>
+<li><a href="http://www.khoslaventures.com/wp-content/uploads/2012/02/productmanager.pdf">Behind Every Great Product</a></li>
+<li><a href="http://www.amazon.com/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM/ref=pd_sim_kstore_3?ie=UTF8&amp;refRID=1HN6SX1PVNEDCDWQGGEC">Lean Analytics</a></li>
+<li><a href="http://www.amazon.com/Running-Lean-Iterate-Works-Series-ebook/dp/B006UKFFE0/ref=pd_sim_kstore_5?ie=UTF8&amp;refRID=1HN6SX1PVNEDCDWQGGEC">Running Lean</a></li>
+<li><a href="http://www.amazon.com/Lean-UX-Applying-Principles-Experience-ebook/dp/B0074KA0A4/ref=pd_sim_kstore_12?ie=UTF8&amp;refRID=1HN6SX1PVNEDCDWQGGEC">Lean UX</a></li>
+<li><a href="http://www.amazon.com/gp/product/0743235274?ie=UTF8&amp;tag=theexpeisthep-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0743235274">The Creative Habit</a></li>
+<li><a href="http://www.amazon.com/Cracking-PM-Interview-Product-Technology-ebook/dp/B00ISYMUR6/ref=pd_sim_b_2?ie=UTF8&amp;refRID=0FNGAP985BN8XFYSJHZP">Cracking the PM Interview</a></li>
+<li><a href="http://www.amazon.com/Art-Product-Management-Lessons-Innovator-ebook/dp/B00347AIDA/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1399096826&amp;sr=1-1&amp;keywords=the+art+of+product+management">The Art of Product Management</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
