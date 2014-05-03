@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ux | Ariba Jahan]]></title>
+  <title><![CDATA[Category: UX | Ariba Jahan]]></title>
   <link href="http://aribajahan.github.io/blog/categories/ux/atom.xml" rel="self"/>
   <link href="http://aribajahan.github.io/"/>
-  <updated>2014-05-03T04:36:41-04:00</updated>
+  <updated>2014-05-03T04:40:48-04:00</updated>
   <id>http://aribajahan.github.io/</id>
   <author>
     <name><![CDATA[Ariba Jahan]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[The Product World]]></title>
     <link href="http://aribajahan.github.io/blog/2014/05/03/the-product-world/"/>
-    <updated>2014-05-03T01:51:08-04:00</updated>
+    <updated>2014-05-03T04:39:56-04:00</updated>
     <id>http://aribajahan.github.io/blog/2014/05/03/the-product-world</id>
     <content type="html"><![CDATA[<h3>Product Books to read</h3>
 
