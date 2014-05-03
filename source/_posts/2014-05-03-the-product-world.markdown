@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Product World"
-date: 2014-05-03 01:51:08 -0400
+date: 2014-05-03 04:39:56 -0400
 comments: true
-categories: productmanagement product ux 
+categories: product management PM UX
 ---
 
 ###Product Books to read
