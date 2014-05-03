@@ -97,6 +97,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
+comments: true
 disqus_short_name: aribajahan
 disqus_show_comment_count: true
 
@@ -105,4 +106,4 @@ disqus_show_comment_count: true
 google_analytics_tracking_id: UA-49774879-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
