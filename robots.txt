@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://aribajahan.github.io/sitemap.xml 
